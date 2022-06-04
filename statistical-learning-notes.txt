@@ -14,3 +14,8 @@ continuous or quantatative data regression
 categorical or qualitative predict non-numerical value
 
 current page: 17
+
+
+
+git
+https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
