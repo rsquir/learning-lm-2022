@@ -1,0 +1,16 @@
+p. 14
+continuous or quantatative data
+regression (big ?)
+catagorical or qualitative data
+
+qualitative data: gender, religion, marital status
+	type
+quantative data: age, height, weight, income
+	numerical value
+catagorical data: catagory
+continuous data: numerical value
+
+continuous or quantatative data regression
+categorical or qualitative predict non-numerical value
+
+current page: 17

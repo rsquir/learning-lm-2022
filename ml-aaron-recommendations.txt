@@ -1,0 +1,10 @@
+An introduction to Statistical Learning
+https://www.statlearning.com
+
+The Hundred-Page Learning Book by Andriy Burkov
+https://themlbook.com
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and Tensor Flow, 2nd Edition
+https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+Libgen piracy
